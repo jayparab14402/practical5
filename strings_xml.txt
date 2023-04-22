@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practical5</string>
+    <string name="text">I am a string</string>
+    <string name="button">I am a button</string>
+</resources>
